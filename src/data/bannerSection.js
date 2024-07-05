@@ -5,19 +5,19 @@ export const bannerTwo = [
     id: 1,
     bg: "1.jpg",
     subtitle: "Välkommen till vår webbplats",
-    title: "linoor AB\nElbolag",
+    title: "ConselTech AB\nElbolag",
   },
   {
     id: 2,
     bg: "2.jpg",
     subtitle: "Välkommen till vår webbplats",
-    title: "linoor AB\nElbolag",
+    title: "ConselTech AB\nElbolag",
   },
   {
     id: 3,
     bg: "3.jpg",
     subtitle: "Välkommen till vår webbplats",
-    title: "linoor AB\nElbolag",
+    title: "ConselTech AB\nElbolag",
   },
 ];
 
